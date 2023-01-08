@@ -1,7 +1,8 @@
 # Post-It
 
+My first front-end application with Vue.js 3 to manage post-it notes (CRUD), via an API.  
+
 ## General Information
-A front-end application with Vue.js 3 to manage post-it notes (CRUD), via an API.  
 The search bar is not functional.  
 
 # Technologies  
